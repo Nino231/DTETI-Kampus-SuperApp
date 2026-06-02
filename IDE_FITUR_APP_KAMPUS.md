@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-Pengingat Deadline Tugas
+Nama Fitur: Fitur Reminder Tugas
+Deskripsi Singkat: Fitur ini memungkinkan agar mahasiswa diingatkan tentang tugas sebelum datangnya deadline
+Target Pengguna Utama: Mahasiswa S1
+Value Proposition: Meningkatkan kedisiplinan dan kesiapan mahasiswa, dan juga nilai mahasiswa.
+Diajukan oleh: 521078
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
